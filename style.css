@@ -25,12 +25,12 @@
     padding:5px;
     text-align: center;
     color: aliceblue;
+    padding: 10px 5px 25px 5px;
 }
 
 #vertonixdownload
 {
     padding: 10px;
-    color: aliceblue;
     font-size: 30px;
     border-color:transparent;
     background-color: aquamarine;
@@ -40,4 +40,15 @@
 #vertonixdownload:hover{
     font-size: 30.5px;
     cursor:pointer;
+    background-color: black;
+    color: aquamarine;
+    border: 1px solid white;
 }
+
+a
+{
+    text-decoration: none;
+    color: black;
+    background-color: transparent;
+}
+
